@@ -1,3 +1,8 @@
+## 0.8.1
+
+* Pip Actions implemented by [Erick Daros](https://github.com/erickdaros): [Issue #5](https://github.com/PuntitOwO/simple_pip_mode_flutter/issues/5).
+
+
 ## 0.8.0
 
 * Pip Actions implemented by [Erick Daros](https://github.com/erickdaros): [Issue #5](https://github.com/PuntitOwO/simple_pip_mode_flutter/issues/5).
@@ -17,7 +22,7 @@
     * Kotlin PipCallbackHelperActivityWrapper added
     * Example app updated to show the new wrapper usage
     * Readme instructions update
-    
+
 * Pip Widget parameters added:
     * child widget is used if builder is null
     * pipChild widget is used if pipBuilder is null
